@@ -7,5 +7,6 @@ int main(){
 heloldassdadsda;dsadsad;
 
    printf("yyy\n");
+   printf("thrid");
 
 }
